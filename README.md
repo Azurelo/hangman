@@ -1,32 +1,28 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project is a text-based Hangman game where the player guesses letters to uncover a secret word. It utilizes Rust's HashSet for managing guessed letters and rand for randomly selecting a word. This application highlights Rust's efficient handling of collections and its emphasis on safety and performance.
 
-{Provide a description of the software that you wrote to demonstrate the Rust language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+The purpose of this project is to improve my proficiency with Rust by applying its features to a complete, interactive program. Through this process, I gained experience in implementing loops, conditionals, and I/O operations in Rust as well as understanding its strict ownership model.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
+- Editor: Visual Studio Code
+- Language: Rust
 
-{Describe the tools that you used to develop the software}
+Tools and Libraries: 
 
-{Describe the programming language that you used and any libraries.}
+- rand crate for random number generation. 
+- HashSet for managing guessed letters.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Rust Programming Language](https://www.rust-lang.org/learn)
+- [Docs Rand Crate](https://docs.rs/rand/latest/rand/)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Expand the word list by loading words from an API.
+- Include a graphical user interface.
+- Add support for multiple players.
+- Add options for game difficulty.
