@@ -4,7 +4,7 @@ This project is a text-based Hangman game where the player guesses letters to un
 
 The purpose of this project is to improve my proficiency with Rust by applying its features to a complete, interactive program. Through this process, I gained experience in implementing loops, conditionals, and I/O operations in Rust as well as understanding its strict ownership model.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo](https://youtu.be/8AdyEkKCPnc)
 
 # Development Environment
 - Editor: Visual Studio Code
